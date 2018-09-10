@@ -16,5 +16,8 @@ contacts:
 - mail: veronique.scheerlinck@ch-roubaix.fr
   phone: ''
   name: Veronique Scheerlinck
+- name: Florence Dandia
+  mail: ''
+  phone: ''
 
 ---
