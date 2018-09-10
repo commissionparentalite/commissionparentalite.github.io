@@ -1,0 +1,81 @@
+---
+label: utpas_roubaix_ville.md
+hide_body: 
+is_partial: 
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: name
+  label: Name
+  type: text
+  hidden: false
+  default: ''
+- name: type
+  label: Type
+  type: text
+  hidden: false
+  default: ''
+- name: rue
+  label: Rue
+  type: text
+  hidden: false
+  default: ''
+- name: ville
+  label: Ville
+  type: text
+  hidden: false
+  default: ''
+- name: cp
+  label: Cp
+  type: text
+  hidden: false
+  default: ''
+- name: phone
+  label: Phone
+  type: text
+  hidden: false
+  default: ''
+- name: desc
+  label: Desc
+  type: boolean
+  hidden: false
+  default: ''
+- name: image
+  label: Image
+  type: text
+  hidden: false
+  default: ''
+- name: logo
+  label: Logo
+  type: text
+  hidden: false
+  default: ''
+- name: keywords
+  label: Keywords
+  type: list
+  hidden: false
+  default: ''
+- name: contacts
+  label: Contacts
+  type: field_group_list
+  fields:
+  - name: name
+    label: Name
+    type: text
+    hidden: false
+    default: ''
+  - name: mail
+    label: Mail
+    type: text
+    hidden: false
+    default: ''
+  - name: phone
+    label: Phone
+    type: text
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
