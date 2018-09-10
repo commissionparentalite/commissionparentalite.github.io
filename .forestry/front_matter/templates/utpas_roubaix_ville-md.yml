@@ -88,6 +88,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _membres/jardin-chlorophylle.md
 - _membres/camps-centre-action-medico-social-precoce-0-6-ans.md
 - _membres/centre-medico-psychologique-cpm.md
 - _membres/banque-de-france-bdf.md
