@@ -12,32 +12,7 @@
   <!-- Required meta tags -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  {% if page.norobot %}<meta name="robots" content="noindex">{% endif %}
-  <meta name="description" content="{% if page.desc %}{{ page.content | strip_html | truncatewords: 15 }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
-  <meta name="keywords" content="{% if page.keywords %}{{ page.keywords }}{% else %}{{ site.keywords }}{% endif %}" />
-  <meta prefix="og: http://ogp.me/ns#" property="og:title" content="{{ page.title }}" />
-  <meta prefix="og: http://ogp.me/ns#" property="og:type" content="website" />
-  <meta prefix="og: http://ogp.me/ns#" property="og:url" content="{{ site.url }}{{ page.url }}"/>
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:site" content="@quartierspixel">
-  <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{% if page.desc %}{{ page.content | strip_html | truncatewords: 15 }}{% elsif page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:creator" content="@quartierspixel">
-  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}" />
-  <meta name="twitter:domain" content="{{ site.url }}" />
-  {% if page.image %}
-  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="{{ site.url }}/src/{{ page.image }}">
-  <meta prefix="og: http://ogp.me/ns#" property="og:image:secure_url" content="{{ site.url }}/src/{{ page.image }}" />
-  <meta prefix="og: http://ogp.me/ns#" property="og:image:type" content="image/jpeg" />
-  <meta prefix="og: http://ogp.me/ns#" property="og:image:alt" content="{{ page.title }}" />
-  <meta name="twitter:image:src" content="{{ site.url }}/src/{{ page.image }}">
-  {% else %}
-  <meta prefix="og: http://ogp.me/ns#" property="og:image" content="http://www.quartiersdupixel.fr/src/nothumbnail.jpg">
-  <meta prefix="og: http://ogp.me/ns#" property="og:image:secure_url" content="{{ site.url }}/src/nothumbnail.jpg" />
-  <meta prefix="og: http://ogp.me/ns#" property="og:image:type" content="image/jpeg" />
-  <meta prefix="og: http://ogp.me/ns#" property="og:image:alt" content="{{ page.title }}" />
-  <meta name="twitter:image:src" content="http://www.quartiersdupixel.fr/src/nothumbnail.jpg">
-  {% endif %}
+  <meta name="robots" content="noindex">
   <!-- CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
   <link rel="stylesheet" href="{{ site.baseurl }}css/style.css">

@@ -21,10 +21,10 @@ keywords: "quartiers, centres sociaux, roubaix, petite enfance"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 links:
-  - name:         Comission Petite Enfance
+  - name:         '<i class="fas fa-map-marker-alt" aria-hidden="true"></i> Carte'
     url:          /
     external:     false
-  - name:         Liste des membres
+  - name:         '<i class="fas fa-list-ul" aria-hidden="true"></i> Liste'
     url:          /list
     external:     false
 
