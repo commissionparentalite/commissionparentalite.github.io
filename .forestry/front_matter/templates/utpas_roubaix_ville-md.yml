@@ -53,13 +53,11 @@ fields:
 - name: desc
   label: Desc
   type: boolean
-  hidden: false
-  default: ''
-- name: image
+  hidden: true
+  default: true
+- type: file
   label: Image
-  type: text
-  hidden: false
-  default: ''
+  name: image
 - name: logo
   label: Logo
   type: text
