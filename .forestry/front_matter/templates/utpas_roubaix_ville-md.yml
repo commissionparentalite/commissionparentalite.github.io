@@ -79,3 +79,5 @@ fields:
     default: ''
   hidden: false
   default: ''
+pages:
+- _membres/centre-social-echo.md
