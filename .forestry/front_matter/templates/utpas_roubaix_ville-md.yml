@@ -29,10 +29,12 @@ fields:
   name: type
   label: Type
 - name: rue
-  label: Rue
+  label: Adresse
   type: text
   hidden: false
   default: ''
+  config:
+    required: false
 - name: ville
   label: Ville
   type: text
