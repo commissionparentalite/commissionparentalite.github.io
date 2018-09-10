@@ -1,9 +1,9 @@
 ---
 title: Centre Social Echo
 date: 2018-09-10 11:46:53 +0000
-layout: ''
-name: ''
-type: ''
+layout: post
+name: Centre Social
+type: Social
 rue: ''
 ville: ''
 cp: ''
@@ -18,3 +18,4 @@ contacts:
   phone: 42651551
 
 ---
+* fdrgdgdfgdfgdfg
