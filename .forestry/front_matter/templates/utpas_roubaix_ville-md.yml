@@ -46,7 +46,7 @@ fields:
   hidden: false
   default: ''
 - name: phone
-  label: Phone
+  label: Téléphone de la structure
   type: text
   hidden: false
   default: ''
