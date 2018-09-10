@@ -88,6 +88,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _membres/multi-accueil-la-luciole.md
 - _membres/ecole-maternelle-a-somain.md
 - _membres/programme-reussite-educatif.md
 - _membres/centre-social-echo.md
