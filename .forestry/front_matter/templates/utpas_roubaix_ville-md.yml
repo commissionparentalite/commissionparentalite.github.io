@@ -41,7 +41,7 @@ fields:
   hidden: false
   default: ''
 - name: cp
-  label: Cp
+  label: Code postal
   type: text
   hidden: false
   default: ''
