@@ -88,4 +88,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- _membres/pmi-metz.md
 - _membres/epsm-metropole-lilloise.md
