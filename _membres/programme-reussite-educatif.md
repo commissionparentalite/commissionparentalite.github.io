@@ -19,3 +19,10 @@ contacts:
   phone: 03 59 57 31 28
 
 ---
+## Missions
+
+* Lien avec les familles
+* Suivi des enfants
+* Prévention décrochage scolaire 3-16 ans
+* Rencontre des familles pour la réussite scolaire
+* Accompagnement socio-éducatif ou psychologique
