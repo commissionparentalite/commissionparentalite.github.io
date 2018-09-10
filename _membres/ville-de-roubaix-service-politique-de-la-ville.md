@@ -12,7 +12,13 @@ phone: ''
 image: ''
 logo: ''
 keywords: []
-contacts: []
+contacts:
+- name: Sonia Vidal
+  mail: svidal@ville-roubaix.fr
+  phone: 06 45 66 94 66
+- name: Meriem Lahmidi
+  mail: mlahmidi@ville-roubaix.fr
+  phone: 06 45 62 41 13
 
 ---
 ## Missions
