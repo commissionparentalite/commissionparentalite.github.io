@@ -58,11 +58,9 @@ fields:
 - type: file
   label: Image
   name: image
-- name: logo
+- type: file
   label: Logo
-  type: text
-  hidden: false
-  default: ''
+  name: logo
 - name: keywords
   label: Keywords
   type: list
