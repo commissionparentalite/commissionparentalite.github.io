@@ -12,10 +12,7 @@ phone: 03 20 73 97 88
 image: ''
 logo: ''
 keywords: []
-contacts:
-- name: ''
-  mail: ''
-  phone: ''
+contacts: []
 
 ---
 ## Missions
