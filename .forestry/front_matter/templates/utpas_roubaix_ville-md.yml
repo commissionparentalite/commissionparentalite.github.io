@@ -88,9 +88,9 @@ fields:
   hidden: false
   default: ''
 pages:
+- _membres/domicil-enfance.md
 - _membres/maison-departementale-des-personnes-handicapees-mdph.md
 - _membres/actions-educatives-prevention-aep.md
-- _membres/domicil-enfance.md
 - _membres/multi-accueil-la-luciole.md
 - _membres/ecole-maternelle-a-somain.md
 - _membres/programme-reussite-educatif.md
