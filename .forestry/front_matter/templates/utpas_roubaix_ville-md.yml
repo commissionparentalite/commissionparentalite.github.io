@@ -88,6 +88,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _membres/ville-de-roubaix-service-politique-de-la-ville.md
 - _membres/marie-de-roubaix-service-petite-enfance-0-6-ans.md
 - _membres/classe-passerelle.md
 - _membres/permanence-assistante-sociale.md
