@@ -87,3 +87,5 @@ fields:
     default: ''
   hidden: false
   default: ''
+pages:
+- _membres/epsm-metropole-lilloise.md
