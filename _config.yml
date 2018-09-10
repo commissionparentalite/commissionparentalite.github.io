@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Annuaire des acteurs de la petite enfance
 keywords: "quartiers, centres sociaux, roubaix, petite enfance"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://commissionparentalite.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 links:
   - name:         '<i class="fas fa-map-marker-alt" aria-hidden="true"></i> Carte'
     url:          /
