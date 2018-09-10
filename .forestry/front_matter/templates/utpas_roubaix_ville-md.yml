@@ -88,6 +88,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _membres/centre-medico-psychologique-cpm.md
 - _membres/banque-de-france-bdf.md
 - _membres/domicil-enfance.md
 - _membres/maison-departementale-des-personnes-handicapees-mdph.md
