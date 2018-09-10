@@ -1,0 +1,26 @@
+---
+layout: default
+title: Liste des membres
+---
+
+<div class="container mt-5 mb-5 text-center">
+   <table class="table table-dark">
+      <thead>
+         <tr>
+            <th scope="col">Nom</th>
+            <th scope="col">Type</th>
+            <th scope="col">Téléphone</th>
+         </tr>
+      </thead>
+      <tbody>
+         {% for membre in site.membres %}
+         <tr>
+            <td>{{ membre.name }}</td>
+            <td>{{ membre.type }}</td>
+            <td>{{ membre.phone }}</td>
+            <td><a href="{{ membre.url }}">voir la fiche</a></td>
+            </tr>
+            {% endfor %}
+         </tbody>
+      </table>
+   </div>

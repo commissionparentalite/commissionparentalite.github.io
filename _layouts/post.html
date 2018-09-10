@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="container mt-5 mb-5" style="max-width: 40rem;">
+<img class="img-fluid" src="{{ page.logo }}"/>
+<h1>{{ page.name }}</h1>
+{{ content }}
+<h2>Contacts</h2>
+{% for contact in page.contacts %}
+<strong>{{ contact.name }}</strong>
+<p><a href="mailto:{{ contact.mail }}">{{ contact.mail }}</a> / <a href="tel:{{ contact.phone }}">{{ contact.phone }}</a></p>
+{% endfor %}
+</div>

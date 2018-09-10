@@ -1,0 +1,191 @@
+$primarycolor: #e95280;
+$secondarycolor: #2e97b6;
+$thirdcolor: #ede36b;
+
+.navbar-toggler {
+  border:none;
+}
+
+.navbar-collapse {
+  text-align:right;
+}
+
+.jumbotron a {
+  text-decoration: none;
+  color:white;
+  font-weight: 400;
+}
+
+.jumbotron a:hover {
+   text-decoration: underline;
+   text-decoration-color:rgba(255, 255, 255, 0.5);
+}
+
+.container a.constat {
+  text-decoration: underline;
+  text-decoration-color:rgba(255, 255, 255, 0.5);
+}
+
+.container a.constat:hover {
+   color: $primarycolor;
+   background-color: white;
+   /* Firefox */
+   -moz-transition: all 0.7s ease-in;
+   /* WebKit */
+   -webkit-transition: all 0.7s ease-in;
+   /* Opera */
+   -o-transition: all 0.7s ease-in;
+   /* Standard */
+   transition: all 0.7s ease-in;
+   text-decoration:none;
+}
+
+#title-area {
+  max-width: 40rem;
+  text-shadow: 2px 2px 2px black;
+}
+
+.txt-white {
+  color: white;
+}
+
+.jumbotron.banner {
+  background-image: url("../src/quartiersdupixel_bg.svg");
+  background-color: #17234E;
+  margin-bottom: 0;
+  min-height: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+.img-bkg {
+  background-image: url("../src/igor-ovsyannykov-530798-unsplash.png");
+  background-color: #17234E;
+  margin-bottom: 0;
+  min-height: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-background-size: cover;
+  background-size: cover;
+}
+
+/*Couleurs*/
+
+.myprymary {
+  color: $primarycolor;
+}
+
+.mysecondary {
+  color: $secondarycolor;
+}
+
+.mythird {
+  color: $thirdcolor;
+}
+
+.bg-myprimary {
+  color: white;
+  background-color: $primarycolor;
+}
+
+.bg-mysecondary {
+  color: white;
+  background-color: $secondarycolor;
+}
+
+.bg-mythird {
+  color: white;
+  background-color: $thirdcolor;
+}
+
+.bg-myprimary a {
+  color: white;
+}
+
+.bg-mysecondary a {
+  color: white;
+}
+
+.bg-mythird a {
+  color: white;
+}
+
+.btn-myprimary {
+  background-color: $primarycolor;
+  color:white;
+}
+
+.btn-mysecondary {
+  background-color: $secondarycolor;
+  color:white;
+}
+
+.btn-mythird {
+  background-color: $thirdcolor;
+  color:white;
+}
+
+/*Filtres images*/
+
+.grayscale img {
+  filter: grayscale(1);
+  -webkit-filter: grayscale(1);
+  -moz-filter: grayscale(1);
+  -o-filter: grayscale(1);
+  -ms-filter: grayscale(1);
+}
+
+.grayscale img:hover {
+  filter: grayscale(0);
+  -webkit-filter: grayscale(0);
+  -moz-filter: grayscale(0);
+  -o-filter: grayscale(0);
+  -ms-filter: grayscale(0);
+}
+
+.brightness img {
+  filter: brightness(50%);
+  -webkit-filter: brightness(50%);
+  -moz-filter: brightness(50%);
+  -o-filter: brightness(50%);
+  -ms-filter: brightness(50%);
+}
+
+.blur img {
+  filter: blur(2px);
+  -webkit-filter: blur(2px);
+  -moz-filter: blur(2px);
+  -o-filter: blur(2px);
+  -ms-filter: blur(2px);
+}
+
+.agenda_date {
+  font-size: 2.5rem;
+  color:$secondarycolor;
+  text-transform: uppercase;
+}
+
+//SVG Icons
+
+.svg-icon {
+  width:1.5em;
+  height:1.5em;
+  margin: 0.5em;
+}
+
+.vignette {
+background-size: cover;
+background-position: center center;
+width: 100%;
+height: 200px;
+}
+
+.vignette_agenda {
+background-color: $secondarycolor;
+}
+
+.agenda_link:hover {
+  text-decoration: none;
+}
