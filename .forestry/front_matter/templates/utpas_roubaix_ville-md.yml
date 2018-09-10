@@ -6,18 +6,28 @@ fields:
 - name: layout
   label: Layout
   type: text
-  hidden: false
+  hidden: true
   default: post
 - name: name
   label: Name
   type: text
   hidden: false
   default: ''
-- name: type
+- type: select
+  config:
+    source:
+      type: simple
+    options:
+    - Social
+    - Institution
+    - Santé
+    - Petite enfance
+    - Sport, loisirs et culture
+    - École
+    - Budget
+    required: true
+  name: type
   label: Type
-  type: text
-  hidden: false
-  default: ''
 - name: rue
   label: Rue
   type: text
