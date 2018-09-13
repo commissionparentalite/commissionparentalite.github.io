@@ -1,24 +1,24 @@
 ---
 layout: post
-name: "UTPAS"
-type: "Institution"
-rue: "15 rue Sainte-Élisabeth"
-ville: "Roubaix"
-cp:  "59000"
-phone:  "03 59 73 03 10"
+name: UTPAS
+type: Institution
+rue: 15 rue Sainte-Élisabeth
+ville: Roubaix
+cp: 59000
+phone: 03 59 73 03 10
 desc: true
-image:  ""
-logo:  "https://extranet.ville-roubaix.fr/logo.jpeg"
-keywords: "utpas, petite enfance, prévention"
+image: ''
+logo: ''
+keywords: utpas, petite enfance, prévention
 contacts:
-  - name:         Catherine Lasnet
-    mail:         catherine.lasnet@lenord.fr
-    phone:        03 59 73 03 64
-  - name:         Coralie Chakir
-    mail:         coralie.chakir@lenord.fr
-    phone:        03 59 73 03 62
----
+- name: Catherine Lasnet
+  mail: catherine.lasnet@lenord.fr
+  phone: 03 59 73 03 64
+- name: Coralie Chakir
+  mail: coralie.chakir@lenord.fr
+  phone: 03 59 73 03 62
 
+---
 ## Missions
 * Prévention et action social
 * PMI
