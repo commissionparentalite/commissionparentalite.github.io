@@ -4,7 +4,7 @@ layout: post
 desc: true
 date: 2018-09-10 13:10:30 +0000
 name: PMI Metz
-type: Social
+type: Santé
 rue: 46 boulevard de Metz
 ville: Roubaix
 cp: 59000
@@ -23,6 +23,6 @@ contacts:
 ---
 ## Missions
 
-* Prévention et protection maternelle et infantile
-* Consultation infantile le mardi matin
-* Consultation pré-post natal et planification le vendredi matin 
+* Consultation infantile le mardi matin : de 0 à 6 ans 
+* Consultation pré-post natal et planification le vendredi matin
+* Bilan de 4 ans sur rendez vous 

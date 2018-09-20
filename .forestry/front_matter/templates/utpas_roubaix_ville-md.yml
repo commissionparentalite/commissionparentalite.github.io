@@ -88,6 +88,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _membres/pmi-metz.md
 - _membres/jardin-chlorophylle.md
 - _membres/camps-centre-action-medico-social-precoce-0-6-ans.md
 - _membres/centre-medico-psychologique-cpm.md
@@ -103,5 +104,4 @@ pages:
 - _membres/marie-de-roubaix-service-petite-enfance-0-6-ans.md
 - _membres/classe-passerelle.md
 - _membres/permanence-assistante-sociale.md
-- _membres/pmi-metz.md
 - _membres/epsm-metropole-lilloise.md
