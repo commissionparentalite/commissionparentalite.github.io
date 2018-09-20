@@ -1,6 +1,6 @@
 ---
 layout: post
-name: UTPAS
+name: UTPAS Roubaix Ville
 type: Institution
 rue: 15 rue Sainte-Élisabeth
 ville: Roubaix
