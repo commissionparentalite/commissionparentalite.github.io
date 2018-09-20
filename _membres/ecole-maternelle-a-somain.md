@@ -3,7 +3,7 @@ title: École maternelle A. Somain
 layout: post
 desc: true
 date: 2018-09-10 13:43:50 +0000
-name: École maternelle A. Somain
+name: École maternelle Albert Samain
 type: École
 rue: 95 rue Philippeville
 ville: Roubaix
