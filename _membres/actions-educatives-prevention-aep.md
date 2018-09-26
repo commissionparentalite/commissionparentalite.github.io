@@ -13,6 +13,9 @@ image: ''
 logo: "/uploads/nouveau logo 2 .jpg"
 keywords: []
 contacts:
+- name: GOHRAB Sabrina
+  mail: aep-equipenord@orange.fr
+  phone: '0630112221'
 - name: ZAKRI Mahdi
   mail: aep-equipenord@orange.fr
   phone: '0630062440'
