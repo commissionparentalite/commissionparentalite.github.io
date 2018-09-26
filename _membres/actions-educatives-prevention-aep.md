@@ -13,6 +13,9 @@ image: ''
 logo: "/uploads/nouveau logo 2 .jpg"
 keywords: []
 contacts:
+- name: ZAKRI Mahdi
+  mail: aep-equipenord@orange.fr
+  phone: '0630062440'
 - name: YAVUZ Fehmi
   mail: aep-equipenord@orange.fr
   phone: '0621353077'
