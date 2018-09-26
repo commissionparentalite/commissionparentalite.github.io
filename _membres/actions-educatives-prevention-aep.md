@@ -13,6 +13,9 @@ image: ''
 logo: "/uploads/nouveau logo 2 .jpg"
 keywords: []
 contacts:
+- name: YAVUZ Fehmi
+  mail: aep-equipenord@orange.fr
+  phone: '0621353077'
 - name: Kasier Raquel
   mail: aep-equipenord@orange.fr
   phone: '0688723946'
