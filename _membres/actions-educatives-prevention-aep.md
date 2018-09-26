@@ -22,7 +22,7 @@ contacts:
 - name: YAVUZ Fehmi
   mail: aep-equipenord@orange.fr
   phone: '0621353077'
-- name: Kasier Raquel
+- name: KASIER Raquel
   mail: aep-equipenord@orange.fr
   phone: '0688723946'
 - mail: aep-equipenord@orange.fr
