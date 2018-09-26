@@ -10,9 +10,12 @@ ville: Roubaix
 cp: 59100
 phone: 03 62 23 55 86
 image: ''
-logo: ''
+logo: "/uploads/nouveau logo 2 .jpg"
 keywords: []
 contacts:
+- name: Kasier Raquel
+  mail: aep-equipenord@orange.fr
+  phone: '0688723946'
 - mail: ''
   phone: ''
   name: Laetitia Delannoy
