@@ -27,7 +27,7 @@ contacts:
   phone: '0688723946'
 - mail: aep-equipenord@orange.fr
   phone: '0786991074'
-  name: Delannoy Laetitia (ALSES Collège Anne Frank)
+  name: DELANNOY Laetitia (ALSES Collège Anne Frank)
 - name: CABRE Aurélien (ALSES Collège Samain (ROSA Parks)
   mail: aep-equipenord@orange.fr
   phone: '0630590731'
