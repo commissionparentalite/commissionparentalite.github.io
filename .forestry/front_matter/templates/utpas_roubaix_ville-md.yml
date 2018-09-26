@@ -88,6 +88,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _membres/actions-educatives-prevention-aep.md
 - _membres/pmi-metz.md
 - _membres/jardin-chlorophylle.md
 - _membres/camps-centre-action-medico-social-precoce-0-6-ans.md
@@ -95,7 +96,6 @@ pages:
 - _membres/banque-de-france-bdf.md
 - _membres/domicil-enfance.md
 - _membres/maison-departementale-des-personnes-handicapees-mdph.md
-- _membres/actions-educatives-prevention-aep.md
 - _membres/multi-accueil-la-luciole.md
 - _membres/ecole-maternelle-a-somain.md
 - _membres/programme-reussite-educatif.md

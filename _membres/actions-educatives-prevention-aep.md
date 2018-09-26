@@ -13,6 +13,9 @@ image: ''
 logo: "/uploads/nouveau logo 2 .jpg"
 keywords: []
 contacts:
+- name: LOUGRADA Mustapha (Chef de service)
+  mail: mustapha.lougrada@orange.fr
+  phone: '0612580745'
 - name: GOHRAB Sabrina
   mail: aep-equipenord@orange.fr
   phone: '0630112221'
