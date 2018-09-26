@@ -16,7 +16,7 @@ contacts:
 - name: GOHRAB Sabrina
   mail: aep-equipenord@orange.fr
   phone: '0630112221'
-- name: ZAKRI Mahdi
+- name: SAKRI Mahdi
   mail: aep-equipenord@orange.fr
   phone: '0630062440'
 - name: YAVUZ Fehmi
