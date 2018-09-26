@@ -23,15 +23,22 @@ contacts:
 ---
 ## Missions
 
+Une équipe pluridisciplinaire de prévention spécialisée rencontre et accompagnement des jeunes en difficultés sociales âgés de 11 à 21 ans.
+
 * Soutien éducatif : jeunes/familles
-* Décrochage scolaire
-* Accompagnement dans projet pro
-* Acc individuel des jeunes et des familles
-* Acc de projet de groupe
-* Séjours jeunes
+* Action autour du décrochage scolaire
+* Accompagnement individuel des jeunes et des familles
 
-    
-    
+              - Administratif
 
-    
-    
+              - formation emploi 
+
+              - justice
+
+              - santé, conduite addictive 
+
+              - logement
+
+* Mise en place de projet autour de l'insertion et la mobilité des jeunes
+* Séjours de rupture
+* Travail de rue 
