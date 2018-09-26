@@ -16,9 +16,9 @@ contacts:
 - name: Kasier Raquel
   mail: aep-equipenord@orange.fr
   phone: '0688723946'
-- mail: ''
-  phone: ''
-  name: Laetitia Delannoy
+- mail: aep-equipenord@orange.fr
+  phone: '0786991074'
+  name: Delannoy Laetitia (ALSES Collège Anne Frank)
 - name: Aurélien Rachielle
   mail: ''
   phone: ''
