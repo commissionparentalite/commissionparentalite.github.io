@@ -18,9 +18,14 @@ contacts:
   phone: 06 82 58 04 83
 
 ---
-## Missions
+## Missions de la classe passerelle
 
-Accueillir et accompagner l'enfant et sa famille à l'école maternelle pour favoriser son intégration dans le système scolaire, en l'adaptant aux enfants de 2 ans.  
+Favoriser l'accueil et l'accompagnement du groupe familial pour donner à l'enfant dès son plus jeune âge le maximum de chances de s'intégrer dans un système social (l'école).
 
-* Tous les matins de 8h05 à 11h45
-* Mercredi de 8h05 à 12h15  
+* Permettre un passage en douceur entre la maison, les structures d'accueil et l'école.
+* Reconnaître aux parents leur responsabilité éducative et favoriser leur engagement.
+* S'appuyer sur les ressources du quartier en matière de petite enfance.
+
+Lundi, Mardi, Jeudi, Vendredi de 8h20-11h20, après un temps d'adaptation de 3 semaines en septembre.
+
+Et de 15h à 16h20 à partir du mois de novembre.
