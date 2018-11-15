@@ -3,7 +3,7 @@ title: Classe passerelle
 layout: post
 desc: true
 date: 2018-09-10 13:20:08 +0000
-name: Classe passerelle
+name: Classe passerelle Albert Samain
 type: École
 rue: 95 rue de Philippeville
 ville: Roubaix
