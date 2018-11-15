@@ -8,20 +8,20 @@ type: École
 rue: 95 rue Philippeville
 ville: Roubaix
 cp: 59100
-phone: 03 20 70 48 20
+phone: '03 20 70 48 20   '
 image: ''
 logo: ''
-keywords: []
+keywords:
+- école
 contacts:
 - name: Cécile Lepers
   phone: 06 83 27 19 41
 
 ---
-## Missions
+## Missions de l'école
 
-* Veiller à la bonne marche de l'école et au respect de la réglementation qui lui est applicable
-* Être garante du projet d'école et celui de la passerelle
+* Donner envie aux enfants d'aller à l'école, pour apprendre, affirmer et épanouir leur personnalité et le vivre ensemble.
+* Ils apprennent en jouant, en réfléchissant et en résolvant des problèmes, en s’exerçant, en se remémorant et en mémoriser.
+* Ils développent principalement le langage oral et les fondamentaux qui permettront de développer les futurs apprentissages des élèves pour l'ensemble de leur scolarité.
 
-_Lundi, mardi, jeudi et vendredi : 8h05-11h45 / 13h35-15h15_
-
-_Mercredi : 8h05-12h15_
+_Lundi, mardi, jeudi et vendredi : 8h20-11h20 /13h30-16h20_
