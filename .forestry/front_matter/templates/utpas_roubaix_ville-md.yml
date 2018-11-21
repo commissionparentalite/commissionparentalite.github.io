@@ -88,6 +88,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _membres/centre-social-echo.md
 - _membres/centre-medico-psychologique-cpm.md
 - _membres/actions-educatives-prevention-aep.md
 - _membres/pmi-metz.md
@@ -99,7 +100,6 @@ pages:
 - _membres/multi-accueil-la-luciole.md
 - _membres/ecole-maternelle-a-somain.md
 - _membres/programme-reussite-educatif.md
-- _membres/centre-social-echo.md
 - _membres/ville-de-roubaix-service-politique-de-la-ville.md
 - _membres/marie-de-roubaix-service-petite-enfance-0-6-ans.md
 - _membres/classe-passerelle.md
