@@ -21,4 +21,4 @@ contacts: []
 * Consultation sur rendez-vous avec diff pro (psychiatre, psychologue, orthophoniste, psychomotricienne et Assistante sociale)
 * Prise en charge des soins
 
-_Dépend de l'EPSM Agglomération Lilloise_
+_Dépend de l’Établissement Publique de Santé Mentale Agglomération Lilloise_
