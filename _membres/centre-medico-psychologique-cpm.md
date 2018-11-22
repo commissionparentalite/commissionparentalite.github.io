@@ -19,3 +19,5 @@ contacts: []
 
 * Écoute, orientation et suivi thérapeutique pour enfants de 0 à 15 ans présentant des difficultés psychologiques
 * Consultation sur rendez-vous avec diff pro (psychiatre, psychologue, orthophoniste, psychomotricienne et Assistante sociale)
+
+_Dépend de l'EPSM Agglomération Lilloise_

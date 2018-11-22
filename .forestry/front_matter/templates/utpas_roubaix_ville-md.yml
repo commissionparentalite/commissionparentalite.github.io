@@ -88,8 +88,8 @@ fields:
   hidden: false
   default: ''
 pages:
-- _membres/centre-social-echo.md
 - _membres/centre-medico-psychologique-cpm.md
+- _membres/centre-social-echo.md
 - _membres/actions-educatives-prevention-aep.md
 - _membres/pmi-metz.md
 - _membres/jardin-chlorophylle.md
