@@ -88,6 +88,7 @@ fields:
   hidden: false
   default: ''
 pages:
+- _membres/caf-du-nord.md
 - _membres/centre-medico-psychologique-cpm.md
 - _membres/centre-social-echo.md
 - _membres/actions-educatives-prevention-aep.md
