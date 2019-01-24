@@ -13,6 +13,9 @@ phone: 'Chargée d''intervention sociale : 03.20.99.48.00 et Chargée de conseil
 image: ''
 logo: ''
 keywords: []
-contacts: []
+contacts:
+- mail: stephanie.cadinot@cafnord.cnafmail.fr
+  phone: 03.20.99.48.00
+  name: Cadinot Stéphanie chargée d'intervention sociale
 
 ---
