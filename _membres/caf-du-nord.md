@@ -11,7 +11,7 @@ cp: 59100
 phone: 'Chargée d''intervention sociale : 03.20.99.48.00 et Chargée de conseil et
   de développement en action sociale : 03.20.99.48.06'
 image: ''
-logo: ''
+logo: "/uploads/Caf du Nord logo.jpg"
 keywords: []
 contacts:
 - name: Dujardin Stéphanie Chargée de conseil et de développement en action sociale
