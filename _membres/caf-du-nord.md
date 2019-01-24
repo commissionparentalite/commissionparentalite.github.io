@@ -21,18 +21,18 @@ contacts:
   name: Cadinot Stéphanie chargée d'intervention sociale
 
 ---
-**Les missions institutionnelles de la Caf :** 
+**Les missions institutionnelles de la Caf :**
 
 * Aider les familles à concilier vie professionnelle, vie familiale et vie sociale.
 * Soutenir la fonction parentale et faciliter les relations parents/enfants.
 * Accompagner les familles dans leur relation avec l’environnement et le cadre de vie.
 * Créer les conditions favorables à l’autonomie et à l’insertion sociale.
 
-Les principes d’action : 
+Les principes d’action :
 
-**Pour les CIS :** 
+**Pour les CIS :**
 
-Accompagner les familles pour faciliter l’accès aux droits et les soutenir lors d’événements familiaux dans les domaines : 
+Accompagner les familles pour faciliter l’accès aux droits et les soutenir lors d’événements familiaux dans les domaines :
 
 \- la parentalité : première grossesse ou adoption, grossesse multiple, grossesse de parent mineur, séparation, décès d'un enfant ou du conjoint, maladie/handicap de l'enfant, les vacances.
 
@@ -40,18 +40,20 @@ Accompagner les familles pour faciliter l’accès aux droits et les soutenir lo
 
 \-  insertion : familles monoparentales avec de jeunes enfants et bénéficiaires de RSA.
 
-**Pour les CCDAS :** 
+**Pour les CCDAS :**
 
-Accompagner et conseiller les partenaires dans le développement d’actions ou d’équipements en lien avec les besoins de la population et la politique d’action sociale. 
+Accompagner et conseiller les partenaires dans le développement d’actions ou d’équipements en lien avec les besoins de la population et la politique d’action sociale.
 
-Il existe cinq grandes thématiques d’intervention : 
+Il existe cinq grandes thématiques d’intervention :
 
 \- la parentalité,
 
 \- la petite enfance,
 
-\- l’enfance et la jeunesse, 
+\- l’enfance et la jeunesse,
 
-\- le logement, 
+\- le logement,
 
 \- l’animation de la vie sociale et l’aide à l’autonomie.
+
+_La CAF vous accueille du lundi au mercredi de 8 h 30 à 16 h et le vendredi de 8h30 à 15h30. Vous pouvez nous contacter au 0 810 25 59 80 ou vous connecter au www.caf.fr_
