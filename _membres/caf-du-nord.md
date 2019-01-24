@@ -14,6 +14,9 @@ image: ''
 logo: ''
 keywords: []
 contacts:
+- name: Dujardin Stéphanie Chargée de conseil et de développement en action sociale
+  mail: stephanie.dujardin@cafnord.cnafmail.fr
+  phone: 03.20.99.48.06
 - mail: stephanie.cadinot@cafnord.cnafmail.fr
   phone: 03.20.99.48.00
   name: Cadinot Stéphanie chargée d'intervention sociale
