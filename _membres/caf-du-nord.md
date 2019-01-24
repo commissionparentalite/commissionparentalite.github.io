@@ -31,7 +31,7 @@ contacts:
 
 Les principes d’action : 
 
-Pour les CIS : 
+**Pour les CIS :** 
 
 Accompagner les familles pour faciliter l’accès aux droits et les soutenir lors d’événements familiaux dans les domaines : 
 
@@ -41,7 +41,7 @@ Accompagner les familles pour faciliter l’accès aux droits et les soutenir lo
 
 \-  insertion : familles monoparentales avec de jeunes enfants et bénéficiaires de RSA.
 
-Pour les CCDAS : 
+**Pour les CCDAS :** 
 
 Accompagner et conseiller les partenaires dans le développement d’actions ou d’équipements en lien avec les besoins de la population et la politique d’action sociale. 
 
